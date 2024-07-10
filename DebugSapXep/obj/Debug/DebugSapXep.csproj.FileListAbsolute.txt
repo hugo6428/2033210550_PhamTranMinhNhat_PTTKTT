@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\bin\Debug\DebugSapXep.exe.config
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\obj\Debug\DebugSapXep.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\bin\Debug\DebugSapXep.exe
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\bin\Debug\DebugSapXep.pdb
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\obj\Debug\DebugSapXep.exe
+C:\Users\Administrator\Desktop\DebugSapXep\DebugSapXep\obj\Debug\DebugSapXep.pdb
