@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\bin\Debug\Nhan2so.exe.config
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\bin\Debug\Nhan2so.exe
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\bin\Debug\Nhan2so.pdb
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\obj\Debug\Nhan2so.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\obj\Debug\Nhan2so.exe
+C:\Users\Administrator\Desktop\DebugSapXep\Nhan2so\obj\Debug\Nhan2so.pdb

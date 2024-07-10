@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugSapXep", "DebugSapXep\DebugSapXep.csproj", "{5CA7620C-ECCB-45E4-A8BE-78BE7CB7C28A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{8A6F7806-ACAC-4500-BA12-3F19E4EF8539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhan2so", "Nhan2so\Nhan2so.csproj", "{1FF4D468-79BB-4A48-93CE-D90D0284DF3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5CA7620C-ECCB-45E4-A8BE-78BE7CB7C28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA7620C-ECCB-45E4-A8BE-78BE7CB7C28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA7620C-ECCB-45E4-A8BE-78BE7CB7C28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6F7806-ACAC-4500-BA12-3F19E4EF8539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6F7806-ACAC-4500-BA12-3F19E4EF8539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6F7806-ACAC-4500-BA12-3F19E4EF8539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6F7806-ACAC-4500-BA12-3F19E4EF8539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF4D468-79BB-4A48-93CE-D90D0284DF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF4D468-79BB-4A48-93CE-D90D0284DF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF4D468-79BB-4A48-93CE-D90D0284DF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF4D468-79BB-4A48-93CE-D90D0284DF3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
