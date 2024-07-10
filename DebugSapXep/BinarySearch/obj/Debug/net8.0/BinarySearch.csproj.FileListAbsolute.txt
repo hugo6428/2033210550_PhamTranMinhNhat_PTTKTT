@@ -1,0 +1,15 @@
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll

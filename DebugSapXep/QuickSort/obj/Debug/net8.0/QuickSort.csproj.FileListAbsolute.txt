@@ -1,0 +1,15 @@
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\bin\Debug\net8.0\QuickSort.exe
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\bin\Debug\net8.0\QuickSort.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+D:\nhat\HKHè\PTTKTT\DebugSapXep\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll
